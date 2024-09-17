@@ -1,0 +1,8 @@
+{% for item in site.data.photos %}
+  <ul>
+    <li>
+      <time datetime="{{ item.date }}">Added {{ item.date }}</time>
+      <a href="{{ item.path }}">{{ item.name }}</a>
+    </li>
+  </ul>
+{% endfor %}
