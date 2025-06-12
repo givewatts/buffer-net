@@ -1,8 +1,8 @@
 - name: Home
   link: /
-- name: Testudines
-  title: My turtle photos
-  link: /turtle/
-- name: Prestidigitation
-  title: The art, craft, and scholarship of magic
-  link: /magic/
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
+- name: Staff
+  link: /staff.html
