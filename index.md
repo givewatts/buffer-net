@@ -3,4 +3,4 @@ title: Home
 ---
 # {{ "Hello World" | downcase }}
 
-this is a test
+<b>this is a test<b>
