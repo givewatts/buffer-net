@@ -6,5 +6,17 @@
   link: /blog.html
 - name: Staff
   link: /staff.html
+- name: Urbex
+  link: /urbex.html
+- name: IRC
+  link: /irc.html
+- name: KDX
+  link: /kdx.html
+- name: Hotline
+  link: /hotline.html
+- name: Gemini
+  link: /gemini.html
+- name: Nex
+  link: /nex.html
 - name: Turtles
   link: /turtles.html
