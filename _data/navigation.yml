@@ -15,8 +15,8 @@
 - name: Hotline
   link: /hotline.html
 - name: Gemini
-  link: /gemini.html
+  link: gemini://gemini.hco3.xyz
 - name: Nex
-  link: /nex.html
+  link: nex://nex.hco3.xyz
 - name: Turtles
   link: /turtles.html
