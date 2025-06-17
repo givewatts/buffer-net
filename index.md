@@ -1,6 +1,5 @@
 ---
-title: Home
+title: Buffer-Net Communications: Home
 ---
-# {{ "Hello World" | downcase }}
-
-<b>this is a test<b>
+# Buffer-Net Communications
+## Classic internet services for the smallnet community.
