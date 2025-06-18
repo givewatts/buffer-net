@@ -15,5 +15,5 @@ Buffer-Net also runs servers and content in smallnet protocols:
 
 ---
 
-Any questions about Buffer-Net or any of the services?
+Questions about Buffer-Net or any of the services?
 [HCO3@gmx.com](mailto:HCO3@gmx.com "Send me email.")
