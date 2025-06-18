@@ -1,6 +1,19 @@
 ---
-title: About
+title: Buffer-Net Communications: About
 ---
-# About page
+# What is this?
 
-This page tells you a little bit about me.
+Buffer-Net Communications ("Buffer-Net") runs and provides free access to classic internet services for the smallnet community, and anyone else with interest. These services include but are not limited to:
+- <b>I</b>nternet <b>R</b>elay <b>C</b>hat (IRC)
+- Client/Server multi-services (File sharing, chat, message boards, etc.)
+  - KDX
+  - Hotine Connect
+
+Buffer-Net also runs servers and content in smallnet protocols:
+- Gemini
+- Nex
+
+---
+
+Any questions about Buffer-Net or any of the services?
+[HCO3@gmx.com](mailto:HCO3@gmx.com "Send me email.")
