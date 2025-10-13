@@ -11,12 +11,4 @@
     <a href="{{ item.link }}" {% if page.url == item.link %} class="current" 
       {% endif %}>{{ item.name }}</a>
 	{% endfor %}
-	
-	<span style="font-weight: bold; font-size: larger;">|</span>
-
-	<h3 style="display: inline;">Other Content:</h3>
-	{% for item in site.data.content-navigation %}
-		<a href="{{ item.link }}" {% if page.url == item.link %} class="current"
-			{% endif %}>{{ item.name }}</a>
-	{% endfor %}
 </nav>
