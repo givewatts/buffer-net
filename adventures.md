@@ -1,6 +1,6 @@
 ---
-title: Offbeat Adventures
+title: Unusual Adventures
 ---
-# Offbeat Adventures
+# Unusual Adventures
 
 
