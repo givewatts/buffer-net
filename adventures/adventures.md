@@ -5,4 +5,4 @@ title: Unusual Adventures
 
 Photo essays of interesting and unusual locations, mostly within the Northeastern United States.
 
-- [clintonrd.md](CLINTON ROAD)
+- [CLINTON ROAD][clintonrd.md]
