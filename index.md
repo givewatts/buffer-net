@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: Buffer-Net Communications: Home
 ---
 # Buffer-Net Communications
