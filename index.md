@@ -1,13 +1,5 @@
 ---
-title: Buffer-Net Communications: Home
+title: HCO3
 ---
-# Buffer-Net Communications
-
-- [Urban Exploration]()
-- [Turtles]()
-
----
-
-- [Hotline]()
-- [KDX]()
-- [IRC]()
+# HCO3
+{% include all-posts.html %}

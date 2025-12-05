@@ -1,8 +1,6 @@
 ---
-title: Unusual Adventures
+title: Adventures/Urban Exploration
 ---
-# Unusual Adventures
+# Adventures/Urban Exploration
 
-Photo essays of interesting and unusual locations, mostly within the Northeastern United States.
-
-- [CLINTON ROAD](clintonrd.md)
+- [Clinton Road](clinton-road.md)

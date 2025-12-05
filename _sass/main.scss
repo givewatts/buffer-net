@@ -1,3 +1,30 @@
+body {
+	background-color: #343434;
+	color: #708080;
+}
+
+a {
+	color: #708080;
+	background-color: #0D0D0D;
+	padding: 0.2em;
+}
+
+a:visited {
+	color: #67809f;
+}
+
+a:hover {
+	outline: thin solid;
+}
+
 .current {
   color: green;
+}
+
+.bold {
+  font-weight: bold;
+  }
+
+.italic {
+	font-style: italic;
 }
