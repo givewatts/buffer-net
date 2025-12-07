@@ -1,0 +1,15 @@
+---
+title: HCO3 | Urban Exploration
+---
+<h1>Urban Exploration</h1>
+
+<!-- Eventually make this an include and insert in markdown? -->
+<ul>
+  {% for item in site.urban_exploration %}
+  <li>
+    <h2><a href="{{ item.url }}" class="textlink">{{ item.name }}</a></h2>
+    <h3>{{ item.location }}</h3>
+  </li>
+  {% endfor %}
+</ul>
+

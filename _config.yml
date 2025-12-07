@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Buffer-Net Communications
+title: HCO3 
 email: HCO3@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -38,9 +38,16 @@ plugins:
 
 # Collection settings
 collections:
+  urban_exploration:
+    output: true
 
 # Default values  
 defaults:
+  - scope:
+      path: ""
+      type: "urban_exploration"
+    values:
+      layout: "site"
   - scope: 
       path: ""
       type: "posts"
