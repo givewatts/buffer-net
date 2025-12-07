@@ -1,14 +1,12 @@
 <ul>
 	{% for post in site.posts %}
 		<li>
-			<a href="{{ post.url }}" class="textlink">{{ post.title }}</a>
-      by <span class="bold">{{ post.author }}</span>
-      <p>
+			<p><a href="{{ post.url }}" class="textlink">{{ post.title }}</a>
+      by <span class="bold">{{ post.author }}</span></p>
         <div class="content_border">
           <h3>Preview</h3>
           {{ post.excerpt }}
         </div>
-      </p>
 		</li>
 	{% endfor %}
 </ul>
