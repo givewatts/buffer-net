@@ -3,8 +3,12 @@
 		<li>
 			<a href="{{ post.url }}" class="textlink">{{ post.title }}</a>
       by <span class="bold">{{ post.author }}</span>
-      <h3>Preview</h3>
-      {{ post.excerpt }}
+      <p>
+        <div class="content_border">
+          <h3>Preview</h3>
+          {{ post.excerpt }}
+        </div>
+      </p>
 		</li>
 	{% endfor %}
 </ul>
