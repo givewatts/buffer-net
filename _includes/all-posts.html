@@ -2,7 +2,8 @@
 	{% for post in site.posts %}
 		<li>
 			<a href="{{ post.url }}" class="textlink">{{ post.title }}</a>
-      <span class="bold">by {{ post.author.name }}</span>
+      by <span class="bold">{{ post.author }}</span>
+      <h3>Preview</h3>
       {{ post.excerpt }}
 		</li>
 	{% endfor %}
