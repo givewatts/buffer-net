@@ -4,15 +4,17 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <div class="postheader">
-<p>
-	{% assign location = page.location %}
-	{% if location %}
-		<span class="italic">{{ location }}</span>
-	{% endif %}
-<br>
-{{ page.date | date_to_string }}
-<br>
-by <span class="bold">{{ page.author }}</span>
+  <p>
+    {% assign location = page.location %}
+    {% if location %}
+      <span class="italic">{{ location }}</span>
+    {% endif %}
+  </p>
+  <p> 
+    {{ page.date | date_to_string }}
+    <br>
+    by <span class="bold">{{ page.author }}</span>
+  </p>
 </div>
 
 <!--  {% assign author = site.authors | where: 'short_name', page.author | first %}
