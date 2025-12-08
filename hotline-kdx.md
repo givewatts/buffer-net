@@ -3,7 +3,7 @@ title: HCO3 | Hotline/KDX Servers
 ---
 # Hotline/KDX Servers
 
-Guess access open.
+Guest access open.
 
 ## KDX
 
