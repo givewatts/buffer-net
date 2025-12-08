@@ -3,7 +3,7 @@ title: HCO3
 ---
 # HCO3
 
-- [Urban Exploration](/urban-exploration)
+- <a href="/urban-exploration" class="textlink">Urban Exploration</a>
 
 ## Recent
 
