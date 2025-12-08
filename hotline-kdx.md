@@ -11,6 +11,6 @@ Guess access open.
 
 ## Hotline
 
-- ~~hl.hco3.xyz~~ OFFLINE
+- ~~hotline.hco3.xyz~~ OFFLINE
 
 <a href="/" class="textlink">Home</a>
