@@ -2,7 +2,9 @@
 	{% for post in site.posts %}
 		<li>
 			<p><a href="{{ post.url }}" class="textlink">{{ post.title }}</a>
-      by <span class="bold">{{ post.author }}</span></p>
+      <br>
+      by <span class="bold">{{ post.author }}</span> -- 
+      {{ post.date | date_to_string }}</p>
         <div class="content_border">
           <h3>Preview</h3>
           {{ post.excerpt }}
