@@ -1,0 +1,8 @@
+{% for item in site.data.urbex.lancaster_tour %}
+  <p>
+    <a href="/assets/media/images/urbex/lancaster-tour/{{ item.url }}" 
+    alt="{{ item.title }}">
+    <img src="/assets/media/images/urbex/lancaster-tour/{{ item.url }}" alt="{{ item.title }}"
+    class="thumbnail"></a>
+  </p>
+{% endfor %}
