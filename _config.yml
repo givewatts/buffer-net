@@ -40,6 +40,8 @@ plugins:
 collections:
   urban_exploration:
     output: true
+  turtles:
+    output: true
 
 # Default values  
 defaults:
@@ -57,6 +59,9 @@ defaults:
       path: ""
     values:
       layout: "default" 
+  - scope:
+      path: ""
+      layout: "site"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
