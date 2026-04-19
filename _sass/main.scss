@@ -1,6 +1,6 @@
 body {
-	background-color: #343434;
-	color: #708080;
+  background-color: #333300;
+  color: #708080;
   margin: 3%;
 } 
 
@@ -9,16 +9,16 @@ a {
 }
 
 a.textlink { 
-	background-color: #0D0D0D;
-	padding: 0.2em;
+  background-color: #0D0D0D;
+  padding: 0.2em;
 }
 
 a:visited {
-	color: #67809f;
+  color: #67809f;
 }
 
 a.textlink:hover {
-	outline: thin solid;
+  outline: thin solid;
 }
 
 .current {
@@ -30,7 +30,7 @@ a.textlink:hover {
   }
 
 .italic {
-	font-style: italic;
+  font-style: italic;
 }
 
 .thumbnail {
